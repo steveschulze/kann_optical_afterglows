@@ -2,7 +2,9 @@
 
 For many years, D. A. Kann collected optical and NIR data of long and short GRB afterglows. He combined the multi-band data to build composite $R$-band light curves. To honour his legacy, this repository releases the composite light curves that he shared with me many years ago.
 
-All measurements are reported in the AB system, and they corrected for MW extinction.
+All measurements corrected for MW extinction. They should be in the AB system.
+
+Please let me know if you notice any mistake.
 
 If you use these data please cite the following papers:
 
